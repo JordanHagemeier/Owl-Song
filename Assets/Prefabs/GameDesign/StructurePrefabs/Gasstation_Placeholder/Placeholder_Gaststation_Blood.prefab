@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5471095414398111196
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5471095414398111186}
+  - component: {fileID: 5471095414398111185}
+  - component: {fileID: 5471095414398111184}
+  - component: {fileID: 5471095414398111199}
+  - component: {fileID: 5471095414398111198}
+  - component: {fileID: 5471095414398111197}
+  m_Layer: 0
+  m_Name: Placeholder_Gaststation_Blood
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5471095414398111186
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5471095414398111196}
+  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
+  m_LocalPosition: {x: -23.82, y: 3.3, z: -45.7}
+  m_LocalScale: {x: 0.24430454, y: 0.24430454, z: 0.24430454}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 81.76, y: 180, z: 0}
+--- !u!33 &5471095414398111185
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5471095414398111196}
+  m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!23 &5471095414398111184
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5471095414398111196}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 257
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 20ab4b5ce438fe94b842df6393ff7820, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &5471095414398111199
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5471095414398111196}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &5471095414398111198
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5471095414398111196}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6537ee3179822a64c9e6ffe79294108a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_PlaceholderRadius: 0
+  m_InteractableType: 0
+  m_InteractableName: 
+  m_IsCurrentlyInFocus: 0
+  m_IsHighLighted: 0
+  m_StandardMaterial: {fileID: 2100000, guid: 63737dde3c16cf54aa54a5f5e93e5d06, type: 2}
+  m_HighLightMaterial: {fileID: 2100000, guid: 629b4f54c2237554b84c1dbaa10ba0aa, type: 2}
+  m_OwnNavMeshObstacle: {fileID: 0}
+  m_OwnNavMeshObstacleRadius: 1
+  m_NoDropRange: 1.34
+--- !u!114 &5471095414398111197
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5471095414398111196}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e792e370f3469b941b9ccb9853747872, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_ExchangedItem: {fileID: 2537666499113796003, guid: da5f7d09d4656a1459abbb58afe179f2, type: 3}
+  m_SpawningTakesTime: 0
+  m_SpawnTimePerExchange: 5
+  m_CurrentTime: 0
+  m_CurrentlyHeldAmount: 0
+  m_MaxHoldAmount: 0
+  m_WantedCraftingGoods: {fileID: 11400000, guid: 105fce54163c33946820fef7eac7ed9e, type: 2}
+  m_WantedAmountPerCraftingGood: 
+  m_UICanvas: {fileID: 5572321642661428890, guid: c2ee5a670c87cbd41986f6945991a6f8, type: 3}
+  m_UIHandler: {fileID: 0}

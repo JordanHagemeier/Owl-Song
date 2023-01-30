@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a29fff17a69a3ea46b6bc37ac496ed90, type: 3}
+  m_Name: BeehiveDiaryPage
+  m_EditorClassIdentifier: 
+  m_StructureImage: {fileID: 2800000, guid: 5eb62b8d1c20f2247a3d386ecac53394, type: 3}
+  m_FinishedStructureImage: {fileID: 2800000, guid: 3858539c4a3271d4f9c56b50eec148c7, type: 3}
+  m_BlueprintWithStructure: {fileID: 11400000, guid: 4df8876fa34390846bbf012a18ee5808, type: 2}

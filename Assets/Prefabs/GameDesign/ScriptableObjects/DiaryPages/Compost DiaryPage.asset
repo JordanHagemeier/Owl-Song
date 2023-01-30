@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a29fff17a69a3ea46b6bc37ac496ed90, type: 3}
+  m_Name: Compost DiaryPage
+  m_EditorClassIdentifier: 
+  m_StructureImage: {fileID: 2800000, guid: bd769014e414bc24f8be7a253541afbe, type: 3}
+  m_FinishedStructureImage: {fileID: 2800000, guid: b4d27122cd5d59248a9c632f2da91037, type: 3}
+  m_BlueprintWithStructure: {fileID: 11400000, guid: c4d1a2ca3853f6c4ba297aa0292eeea0, type: 2}

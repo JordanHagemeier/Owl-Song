@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a29fff17a69a3ea46b6bc37ac496ed90, type: 3}
+  m_Name: WorkbenchDiaryPageEntry
+  m_EditorClassIdentifier: 
+  m_StructureImage: {fileID: 2800000, guid: 307f19d8c4645f447926c889c6e20d6a, type: 3}
+  m_FinishedStructureImage: {fileID: 2800000, guid: d7f483c0448b17c4cae28f13759f2314, type: 3}
+  m_BlueprintWithStructure: {fileID: 11400000, guid: 2f2ec1527be416449973eddbfe137f60, type: 2}

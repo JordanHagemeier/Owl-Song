@@ -1,0 +1,157 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CompleteLottaAvatarMask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: lotta_GEO
+    m_Weight: 0
+  - m_Path: lotta_GEO/Eyeballs
+    m_Weight: 0
+  - m_Path: lotta_GEO/Eyebrows
+    m_Weight: 0
+  - m_Path: lotta_GEO/Pants
+    m_Weight: 0
+  - m_Path: lotta_GEO/Retopo_hair
+    m_Weight: 0
+  - m_Path: lotta_GEO/Retopo_hand
+    m_Weight: 0
+  - m_Path: lotta_GEO/Retopo_Head
+    m_Weight: 0
+  - m_Path: lotta_GEO/Retopo_Jacket
+    m_Weight: 0
+  - m_Path: lotta_GEO/Retopo_Shoes
+    m_Weight: 0
+  - m_Path: lotta_GEO/Sunglasses
+    m_Weight: 0
+  - m_Path: lotta_RIG
+    m_Weight: 0
+  - m_Path: lotta_RIG/lotta_C_root_JNT
+    m_Weight: 0
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT
+    m_Weight: 0
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT
+    m_Weight: 0
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT
+    m_Weight: 0
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_C_spine3_JNT
+    m_Weight: 0
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_C_spine3_JNT/lotta_C_neck_JNT
+    m_Weight: 0
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_C_spine3_JNT/lotta_C_neck_JNT/lotta_C_head_END
+    m_Weight: 0
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_C_spine3_JNT/lotta_C_neck_JNT/lotta_L_eye_JNT
+    m_Weight: 0
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_C_spine3_JNT/lotta_C_neck_JNT/lotta_L_eyelid_lower_JNT
+    m_Weight: 0
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_C_spine3_JNT/lotta_C_neck_JNT/lotta_L_eyelid_upper_JNT
+    m_Weight: 0
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_C_spine3_JNT/lotta_C_neck_JNT/lotta_R_eye_JNT
+    m_Weight: 0
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_C_spine3_JNT/lotta_C_neck_JNT/lotta_R_eyelid_lower_JNT
+    m_Weight: 0
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_C_spine3_JNT/lotta_C_neck_JNT/lotta_R_eyelid_upper_JNT
+    m_Weight: 0
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_L_clavicle_JNT
+    m_Weight: 0
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_L_clavicle_JNT/lotta_L_shoulder_JNT
+    m_Weight: 0
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_L_clavicle_JNT/lotta_L_shoulder_JNT/lotta_L_elbow_JNT
+    m_Weight: 0
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_L_clavicle_JNT/lotta_L_shoulder_JNT/lotta_L_elbow_JNT/lotta_L_wrist_JNT
+    m_Weight: 0
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_L_clavicle_JNT/lotta_L_shoulder_JNT/lotta_L_elbow_JNT/lotta_L_wrist_JNT/lotta_L_index01_JNT
+    m_Weight: 0
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_L_clavicle_JNT/lotta_L_shoulder_JNT/lotta_L_elbow_JNT/lotta_L_wrist_JNT/lotta_L_index01_JNT/lotta_L_index02_JNT
+    m_Weight: 0
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_L_clavicle_JNT/lotta_L_shoulder_JNT/lotta_L_elbow_JNT/lotta_L_wrist_JNT/lotta_L_index01_JNT/lotta_L_index02_JNT/lotta_L_index_END
+    m_Weight: 0
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_L_clavicle_JNT/lotta_L_shoulder_JNT/lotta_L_elbow_JNT/lotta_L_wrist_JNT/lotta_L_middle01_JNT
+    m_Weight: 0
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_L_clavicle_JNT/lotta_L_shoulder_JNT/lotta_L_elbow_JNT/lotta_L_wrist_JNT/lotta_L_middle01_JNT/lotta_L_middle02_JNT
+    m_Weight: 0
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_L_clavicle_JNT/lotta_L_shoulder_JNT/lotta_L_elbow_JNT/lotta_L_wrist_JNT/lotta_L_middle01_JNT/lotta_L_middle02_JNT/lotta_L_middle_END
+    m_Weight: 0
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_L_clavicle_JNT/lotta_L_shoulder_JNT/lotta_L_elbow_JNT/lotta_L_wrist_JNT/lotta_L_pinky01_JNT1
+    m_Weight: 0
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_L_clavicle_JNT/lotta_L_shoulder_JNT/lotta_L_elbow_JNT/lotta_L_wrist_JNT/lotta_L_pinky01_JNT1/lotta_L_pinky02_JNT
+    m_Weight: 0
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_L_clavicle_JNT/lotta_L_shoulder_JNT/lotta_L_elbow_JNT/lotta_L_wrist_JNT/lotta_L_pinky01_JNT1/lotta_L_pinky02_JNT/lotta_L_pinky_END
+    m_Weight: 0
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_L_clavicle_JNT/lotta_L_shoulder_JNT/lotta_L_elbow_JNT/lotta_L_wrist_JNT/lotta_L_ring01_JNT
+    m_Weight: 0
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_L_clavicle_JNT/lotta_L_shoulder_JNT/lotta_L_elbow_JNT/lotta_L_wrist_JNT/lotta_L_ring01_JNT/lotta_L_ring02_JNT
+    m_Weight: 0
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_L_clavicle_JNT/lotta_L_shoulder_JNT/lotta_L_elbow_JNT/lotta_L_wrist_JNT/lotta_L_ring01_JNT/lotta_L_ring02_JNT/lotta_L_ring_END
+    m_Weight: 0
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_L_clavicle_JNT/lotta_L_shoulder_JNT/lotta_L_elbow_JNT/lotta_L_wrist_JNT/lotta_L_thumb01_JNT
+    m_Weight: 0
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_L_clavicle_JNT/lotta_L_shoulder_JNT/lotta_L_elbow_JNT/lotta_L_wrist_JNT/lotta_L_thumb01_JNT/lotta_L_thumb02_JNT
+    m_Weight: 0
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_L_clavicle_JNT/lotta_L_shoulder_JNT/lotta_L_elbow_JNT/lotta_L_wrist_JNT/lotta_L_thumb01_JNT/lotta_L_thumb02_JNT/lotta_L_thumb_END
+    m_Weight: 0
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_R_clavicle_JNT
+    m_Weight: 0
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_R_clavicle_JNT/lotta_R_shoulder_JNT
+    m_Weight: 0
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_R_clavicle_JNT/lotta_R_shoulder_JNT/lotta_R_elbow_JNT
+    m_Weight: 0
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_R_clavicle_JNT/lotta_R_shoulder_JNT/lotta_R_elbow_JNT/lotta_R_wrist_JNT
+    m_Weight: 0
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_R_clavicle_JNT/lotta_R_shoulder_JNT/lotta_R_elbow_JNT/lotta_R_wrist_JNT/lotta_R_index01_JNT
+    m_Weight: 0
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_R_clavicle_JNT/lotta_R_shoulder_JNT/lotta_R_elbow_JNT/lotta_R_wrist_JNT/lotta_R_index01_JNT/lotta_R_index02_JNT
+    m_Weight: 0
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_R_clavicle_JNT/lotta_R_shoulder_JNT/lotta_R_elbow_JNT/lotta_R_wrist_JNT/lotta_R_index01_JNT/lotta_R_index02_JNT/lotta_R_index_END
+    m_Weight: 0
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_R_clavicle_JNT/lotta_R_shoulder_JNT/lotta_R_elbow_JNT/lotta_R_wrist_JNT/lotta_R_middle01_JNT
+    m_Weight: 0
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_R_clavicle_JNT/lotta_R_shoulder_JNT/lotta_R_elbow_JNT/lotta_R_wrist_JNT/lotta_R_middle01_JNT/lotta_R_middle02_JNT
+    m_Weight: 0
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_R_clavicle_JNT/lotta_R_shoulder_JNT/lotta_R_elbow_JNT/lotta_R_wrist_JNT/lotta_R_middle01_JNT/lotta_R_middle02_JNT/lotta_R_middle_END
+    m_Weight: 0
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_R_clavicle_JNT/lotta_R_shoulder_JNT/lotta_R_elbow_JNT/lotta_R_wrist_JNT/lotta_R_pinky01_JNT1
+    m_Weight: 0
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_R_clavicle_JNT/lotta_R_shoulder_JNT/lotta_R_elbow_JNT/lotta_R_wrist_JNT/lotta_R_pinky01_JNT1/lotta_R_pinky02_JNT
+    m_Weight: 0
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_R_clavicle_JNT/lotta_R_shoulder_JNT/lotta_R_elbow_JNT/lotta_R_wrist_JNT/lotta_R_pinky01_JNT1/lotta_R_pinky02_JNT/lotta_R_pinky_END
+    m_Weight: 0
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_R_clavicle_JNT/lotta_R_shoulder_JNT/lotta_R_elbow_JNT/lotta_R_wrist_JNT/lotta_R_ring01_JNT
+    m_Weight: 0
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_R_clavicle_JNT/lotta_R_shoulder_JNT/lotta_R_elbow_JNT/lotta_R_wrist_JNT/lotta_R_ring01_JNT/lotta_R_ring02_JNT
+    m_Weight: 0
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_R_clavicle_JNT/lotta_R_shoulder_JNT/lotta_R_elbow_JNT/lotta_R_wrist_JNT/lotta_R_ring01_JNT/lotta_R_ring02_JNT/lotta_R_ring_END
+    m_Weight: 0
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_R_clavicle_JNT/lotta_R_shoulder_JNT/lotta_R_elbow_JNT/lotta_R_wrist_JNT/lotta_R_thumb01_JNT
+    m_Weight: 0
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_R_clavicle_JNT/lotta_R_shoulder_JNT/lotta_R_elbow_JNT/lotta_R_wrist_JNT/lotta_R_thumb01_JNT/lotta_R_thumb02_JNT
+    m_Weight: 0
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_R_clavicle_JNT/lotta_R_shoulder_JNT/lotta_R_elbow_JNT/lotta_R_wrist_JNT/lotta_R_thumb01_JNT/lotta_R_thumb02_JNT/lotta_R_thumb_END
+    m_Weight: 0
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_L_hip_JNT
+    m_Weight: 1
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_L_hip_JNT/lotta_L_knee_JNT
+    m_Weight: 1
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_L_hip_JNT/lotta_L_knee_JNT/lotta_L_ankle_JNT
+    m_Weight: 1
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_L_hip_JNT/lotta_L_knee_JNT/lotta_L_ankle_JNT/lotta_L_toe_JNT
+    m_Weight: 1
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_L_hip_JNT/lotta_L_knee_JNT/lotta_L_ankle_JNT/lotta_L_toe_JNT/lotta_L_toe_END
+    m_Weight: 1
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_R_hip_JNT
+    m_Weight: 1
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_R_hip_JNT/lotta_R_knee_JNT
+    m_Weight: 1
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_R_hip_JNT/lotta_R_knee_JNT/lotta_R_ankle_JNT
+    m_Weight: 1
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_R_hip_JNT/lotta_R_knee_JNT/lotta_R_ankle_JNT/lotta_R_toe_JNT
+    m_Weight: 1
+  - m_Path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_R_hip_JNT/lotta_R_knee_JNT/lotta_R_ankle_JNT/lotta_R_toe_JNT/lotta_R_toe_END
+    m_Weight: 1

@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d09b9919b9c9d34dba5520756ca0aa1, type: 3}
+  m_Name: AchievementToAudioClip
+  m_EditorClassIdentifier: 
+  achievementAudioDictionary:
+  - clip: {fileID: 8300000, guid: cb6131a5929996540ba436d2c95dcc80, type: 3}
+    achievementType: 0
+  - clip: {fileID: 8300000, guid: 91531bcd1d071c0489fbf6a22788fd96, type: 3}
+    achievementType: 8
+  - clip: {fileID: 8300000, guid: 043cdde12d3d6744089e5bcce98ebede, type: 3}
+    achievementType: 9
+  - clip: {fileID: 8300000, guid: 6cb81731f1c73cd47a83b02c6a93a816, type: 3}
+    achievementType: 10
+  - clip: {fileID: 8300000, guid: 31588e55cf62cf64195a4ff5bea6ac09, type: 3}
+    achievementType: 5
+  - clip: {fileID: 8300000, guid: 4f662fcfdee69b54f8d05b66c9d8c8b3, type: 3}
+    achievementType: 4
+  - clip: {fileID: 8300000, guid: 5ceffa5a20a4dcc4ea304cef1e24e911, type: 3}
+    achievementType: 7
+  - clip: {fileID: 8300000, guid: 5b9af1904c348b042bc50a03f745a73f, type: 3}
+    achievementType: 14
+  - clip: {fileID: 8300000, guid: c11cd1189c3d37943a5b7bd5742b526a, type: 3}
+    achievementType: 15
+  - clip: {fileID: 8300000, guid: e881da278497a71408281a4068769e3f, type: 3}
+    achievementType: 12
+  - clip: {fileID: 8300000, guid: 2bea4e8f6ba62394c848a0521830516e, type: 3}
+    achievementType: 13
+  - clip: {fileID: 8300000, guid: 81b0a804f3a805343a8969efd7e588e5, type: 3}
+    achievementType: 11
+  - clip: {fileID: 8300000, guid: 5c4555b4df225084d9d35cdd8fbdc16d, type: 3}
+    achievementType: 1
+  - clip: {fileID: 8300000, guid: 107dbec936f47ae419e06938094651db, type: 3}
+    achievementType: 2
+  - clip: {fileID: 8300000, guid: b76b9dfedade71f4e97f0f020447a598, type: 3}
+    achievementType: 3

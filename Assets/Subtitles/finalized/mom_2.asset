@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a2eb869874433d4a8ff9ed7f8b5e870, type: 3}
+  m_Name: mom_2
+  m_EditorClassIdentifier: 
+  lines:
+  - speaker: 7
+    text: $Mom_01_13
+    displayTime: 2.3
+  - speaker: 7
+    text: $Mom_01_14
+    displayTime: 2.3
+  - speaker: 7
+    text: $Mom_02_02
+    displayTime: 3.3
+  - speaker: 7
+    text: $Mom_02_03
+    displayTime: 3.2
+  - speaker: 7
+    text: $Mom_02_04
+    displayTime: 3.6
+  - speaker: 0
+    text: $Mom_02_07
+    displayTime: 1.5
+  - speaker: 7
+    text: $Mom_02_05
+    displayTime: 2.7
+  - speaker: 7
+    text: $Mom_02_06
+    displayTime: 4.1
+  - speaker: 7
+    text: $Mom_02_08
+    displayTime: 3.4
+  - speaker: 7
+    text: $Mom_02_09
+    displayTime: 2
+  - speaker: 7
+    text: $Mom_02_10
+    displayTime: 3.1
+  - speaker: 7
+    text: $Mom_02_11
+    displayTime: 3.5
+  - speaker: 7
+    text: $Mom_02_12
+    displayTime: 2.3
+  - speaker: 7
+    text: $Mom_02_13
+    displayTime: 4.5
+  - speaker: 7
+    text: $Mom_02_14
+    displayTime: 3.4
+  - speaker: 0
+    text: $Mom_02_15
+    displayTime: 2.4
+  - speaker: 7
+    text: $Mom_02_16
+    displayTime: 3.5
+  - speaker: 0
+    text: $Mom_02_17
+    displayTime: 1.6
+  - speaker: 1
+    text: $Mom_02_18
+    displayTime: 1.6
+  - speaker: 0
+    text: $emergency_4
+    displayTime: 2.7

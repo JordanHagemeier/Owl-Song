@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a29fff17a69a3ea46b6bc37ac496ed90, type: 3}
+  m_Name: CordDiaryPage
+  m_EditorClassIdentifier: 
+  m_StructureImage: {fileID: 2800000, guid: dc115f9bbe6fe9747b2725d44fd3d89a, type: 3}
+  m_FinishedStructureImage: {fileID: 2800000, guid: 0289c21cbe7313b4e9e15f7f6b820d2c, type: 3}
+  m_BlueprintWithStructure: {fileID: 11400000, guid: fbe82b9a9e3f55a47a176f0866cdbbde, type: 2}

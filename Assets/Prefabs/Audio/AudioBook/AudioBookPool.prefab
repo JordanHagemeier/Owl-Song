@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &173049590099667640
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 173049590099667654}
+  - component: {fileID: 173049590099667655}
+  m_Layer: 0
+  m_Name: AudioBookPool
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &173049590099667654
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 173049590099667640}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -22.443855, y: 3.9433272, z: -42.351154}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &173049590099667655
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 173049590099667640}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4554565aa810d4c459c49dbc0eda24f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_PreBridgeAudioClips:
+  - {fileID: 8300000, guid: c2dc45d9515984547b7c67d4ec17f6b4, type: 3}
+  - {fileID: 8300000, guid: 8670c42335a662b488c092e1e0bcf76a, type: 3}
+  m_PostBridgeAudioClips:
+  - {fileID: 8300000, guid: 82b17f95d92b91e42b8ec313f7234cff, type: 3}
+  - {fileID: 8300000, guid: 82b17f95d92b91e42b8ec313f7234cff, type: 3}
+  m_BridgeHasBeenBuilt: 0

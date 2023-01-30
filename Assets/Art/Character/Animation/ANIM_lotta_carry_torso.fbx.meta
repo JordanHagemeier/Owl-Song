@@ -1,0 +1,997 @@
+fileFormatVersion: 2
+guid: 343549e8315c57a4cb22ed8bef856b09
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: lotta_carry_torso
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: lotta_carry_torso
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 240
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 00000000010000000100000000000000000000000100000001000000010000000100000000000000000000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: lotta_GEO
+        weight: 1
+      - path: lotta_GEO/Eyeballs
+        weight: 1
+      - path: lotta_GEO/Eyebrows
+        weight: 1
+      - path: lotta_GEO/Pants
+        weight: 1
+      - path: lotta_GEO/Retopo_hair
+        weight: 1
+      - path: lotta_GEO/Retopo_hand
+        weight: 1
+      - path: lotta_GEO/Retopo_Head
+        weight: 1
+      - path: lotta_GEO/Retopo_Jacket
+        weight: 1
+      - path: lotta_GEO/Retopo_Shoes
+        weight: 1
+      - path: lotta_GEO/Sunglasses
+        weight: 1
+      - path: lotta_RIG
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_C_spine3_JNT
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_C_spine3_JNT/lotta_C_neck_JNT
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_C_spine3_JNT/lotta_C_neck_JNT/lotta_C_head_END
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_C_spine3_JNT/lotta_C_neck_JNT/lotta_L_eye_JNT
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_C_spine3_JNT/lotta_C_neck_JNT/lotta_L_eyelid_lower_JNT
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_C_spine3_JNT/lotta_C_neck_JNT/lotta_L_eyelid_upper_JNT
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_C_spine3_JNT/lotta_C_neck_JNT/lotta_R_eye_JNT
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_C_spine3_JNT/lotta_C_neck_JNT/lotta_R_eyelid_lower_JNT
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_C_spine3_JNT/lotta_C_neck_JNT/lotta_R_eyelid_upper_JNT
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_L_clavicle_JNT
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_L_clavicle_JNT/lotta_L_shoulder_JNT
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_L_clavicle_JNT/lotta_L_shoulder_JNT/lotta_L_elbow_JNT
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_L_clavicle_JNT/lotta_L_shoulder_JNT/lotta_L_elbow_JNT/lotta_L_wrist_JNT
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_L_clavicle_JNT/lotta_L_shoulder_JNT/lotta_L_elbow_JNT/lotta_L_wrist_JNT/lotta_L_index01_JNT
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_L_clavicle_JNT/lotta_L_shoulder_JNT/lotta_L_elbow_JNT/lotta_L_wrist_JNT/lotta_L_index01_JNT/lotta_L_index02_JNT
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_L_clavicle_JNT/lotta_L_shoulder_JNT/lotta_L_elbow_JNT/lotta_L_wrist_JNT/lotta_L_index01_JNT/lotta_L_index02_JNT/lotta_L_index_END
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_L_clavicle_JNT/lotta_L_shoulder_JNT/lotta_L_elbow_JNT/lotta_L_wrist_JNT/lotta_L_middle01_JNT
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_L_clavicle_JNT/lotta_L_shoulder_JNT/lotta_L_elbow_JNT/lotta_L_wrist_JNT/lotta_L_middle01_JNT/lotta_L_middle02_JNT
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_L_clavicle_JNT/lotta_L_shoulder_JNT/lotta_L_elbow_JNT/lotta_L_wrist_JNT/lotta_L_middle01_JNT/lotta_L_middle02_JNT/lotta_L_middle_END
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_L_clavicle_JNT/lotta_L_shoulder_JNT/lotta_L_elbow_JNT/lotta_L_wrist_JNT/lotta_L_pinky01_JNT1
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_L_clavicle_JNT/lotta_L_shoulder_JNT/lotta_L_elbow_JNT/lotta_L_wrist_JNT/lotta_L_pinky01_JNT1/lotta_L_pinky02_JNT
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_L_clavicle_JNT/lotta_L_shoulder_JNT/lotta_L_elbow_JNT/lotta_L_wrist_JNT/lotta_L_pinky01_JNT1/lotta_L_pinky02_JNT/lotta_L_pinky_END
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_L_clavicle_JNT/lotta_L_shoulder_JNT/lotta_L_elbow_JNT/lotta_L_wrist_JNT/lotta_L_ring01_JNT
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_L_clavicle_JNT/lotta_L_shoulder_JNT/lotta_L_elbow_JNT/lotta_L_wrist_JNT/lotta_L_ring01_JNT/lotta_L_ring02_JNT
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_L_clavicle_JNT/lotta_L_shoulder_JNT/lotta_L_elbow_JNT/lotta_L_wrist_JNT/lotta_L_ring01_JNT/lotta_L_ring02_JNT/lotta_L_ring_END
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_L_clavicle_JNT/lotta_L_shoulder_JNT/lotta_L_elbow_JNT/lotta_L_wrist_JNT/lotta_L_thumb01_JNT
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_L_clavicle_JNT/lotta_L_shoulder_JNT/lotta_L_elbow_JNT/lotta_L_wrist_JNT/lotta_L_thumb01_JNT/lotta_L_thumb02_JNT
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_L_clavicle_JNT/lotta_L_shoulder_JNT/lotta_L_elbow_JNT/lotta_L_wrist_JNT/lotta_L_thumb01_JNT/lotta_L_thumb02_JNT/lotta_L_thumb_END
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_R_clavicle_JNT
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_R_clavicle_JNT/lotta_R_shoulder_JNT
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_R_clavicle_JNT/lotta_R_shoulder_JNT/lotta_R_elbow_JNT
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_R_clavicle_JNT/lotta_R_shoulder_JNT/lotta_R_elbow_JNT/lotta_R_wrist_JNT
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_R_clavicle_JNT/lotta_R_shoulder_JNT/lotta_R_elbow_JNT/lotta_R_wrist_JNT/lotta_R_index01_JNT
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_R_clavicle_JNT/lotta_R_shoulder_JNT/lotta_R_elbow_JNT/lotta_R_wrist_JNT/lotta_R_index01_JNT/lotta_R_index02_JNT
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_R_clavicle_JNT/lotta_R_shoulder_JNT/lotta_R_elbow_JNT/lotta_R_wrist_JNT/lotta_R_index01_JNT/lotta_R_index02_JNT/lotta_R_index_END
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_R_clavicle_JNT/lotta_R_shoulder_JNT/lotta_R_elbow_JNT/lotta_R_wrist_JNT/lotta_R_middle01_JNT
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_R_clavicle_JNT/lotta_R_shoulder_JNT/lotta_R_elbow_JNT/lotta_R_wrist_JNT/lotta_R_middle01_JNT/lotta_R_middle02_JNT
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_R_clavicle_JNT/lotta_R_shoulder_JNT/lotta_R_elbow_JNT/lotta_R_wrist_JNT/lotta_R_middle01_JNT/lotta_R_middle02_JNT/lotta_R_middle_END
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_R_clavicle_JNT/lotta_R_shoulder_JNT/lotta_R_elbow_JNT/lotta_R_wrist_JNT/lotta_R_pinky01_JNT1
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_R_clavicle_JNT/lotta_R_shoulder_JNT/lotta_R_elbow_JNT/lotta_R_wrist_JNT/lotta_R_pinky01_JNT1/lotta_R_pinky02_JNT
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_R_clavicle_JNT/lotta_R_shoulder_JNT/lotta_R_elbow_JNT/lotta_R_wrist_JNT/lotta_R_pinky01_JNT1/lotta_R_pinky02_JNT/lotta_R_pinky_END
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_R_clavicle_JNT/lotta_R_shoulder_JNT/lotta_R_elbow_JNT/lotta_R_wrist_JNT/lotta_R_ring01_JNT
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_R_clavicle_JNT/lotta_R_shoulder_JNT/lotta_R_elbow_JNT/lotta_R_wrist_JNT/lotta_R_ring01_JNT/lotta_R_ring02_JNT
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_R_clavicle_JNT/lotta_R_shoulder_JNT/lotta_R_elbow_JNT/lotta_R_wrist_JNT/lotta_R_ring01_JNT/lotta_R_ring02_JNT/lotta_R_ring_END
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_R_clavicle_JNT/lotta_R_shoulder_JNT/lotta_R_elbow_JNT/lotta_R_wrist_JNT/lotta_R_thumb01_JNT
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_R_clavicle_JNT/lotta_R_shoulder_JNT/lotta_R_elbow_JNT/lotta_R_wrist_JNT/lotta_R_thumb01_JNT/lotta_R_thumb02_JNT
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_C_spine1_JNT/lotta_C_spine2_JNT/lotta_R_clavicle_JNT/lotta_R_shoulder_JNT/lotta_R_elbow_JNT/lotta_R_wrist_JNT/lotta_R_thumb01_JNT/lotta_R_thumb02_JNT/lotta_R_thumb_END
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_L_hip_JNT
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_L_hip_JNT/lotta_L_knee_JNT
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_L_hip_JNT/lotta_L_knee_JNT/lotta_L_ankle_JNT
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_L_hip_JNT/lotta_L_knee_JNT/lotta_L_ankle_JNT/lotta_L_toe_JNT
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_L_hip_JNT/lotta_L_knee_JNT/lotta_L_ankle_JNT/lotta_L_toe_JNT/lotta_L_toe_END
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_R_hip_JNT
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_R_hip_JNT/lotta_R_knee_JNT
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_R_hip_JNT/lotta_R_knee_JNT/lotta_R_ankle_JNT
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_R_hip_JNT/lotta_R_knee_JNT/lotta_R_ankle_JNT/lotta_R_toe_JNT
+        weight: 1
+      - path: lotta_RIG/lotta_C_root_JNT/lotta_C_pelvis_JNT/lotta_R_hip_JNT/lotta_R_knee_JNT/lotta_R_ankle_JNT/lotta_R_toe_JNT/lotta_R_toe_END
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: 427190601537e4d4cb2f1bf6b68b6634, type: 2}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: lotta_C_pelvis_JNT
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lotta_L_hip_JNT
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lotta_R_hip_JNT
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lotta_L_knee_JNT
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lotta_R_knee_JNT
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lotta_L_ankle_JNT
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lotta_R_ankle_JNT
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lotta_C_spine1_JNT
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lotta_C_spine2_JNT
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lotta_C_spine3_JNT
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lotta_C_neck_JNT
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lotta_L_clavicle_JNT
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lotta_R_clavicle_JNT
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lotta_L_shoulder_JNT
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lotta_R_shoulder_JNT
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lotta_L_elbow_JNT
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lotta_R_elbow_JNT
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lotta_L_wrist_JNT
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lotta_R_wrist_JNT
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lotta_L_toe_JNT
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lotta_R_toe_JNT
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lotta_L_eye_JNT
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lotta_R_eye_JNT
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lotta_L_eyelid_lower_JNT
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lotta_L_thumb01_JNT
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lotta_L_thumb02_JNT
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lotta_L_index01_JNT
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lotta_L_index02_JNT
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lotta_L_middle01_JNT
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lotta_L_middle02_JNT
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lotta_L_ring01_JNT
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lotta_L_ring02_JNT
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lotta_L_pinky01_JNT1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lotta_L_pinky02_JNT
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lotta_R_thumb01_JNT
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lotta_R_thumb02_JNT
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lotta_R_index01_JNT
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lotta_R_index02_JNT
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lotta_R_middle01_JNT
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lotta_R_middle02_JNT
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lotta_R_ring01_JNT
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lotta_R_ring02_JNT
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lotta_R_pinky01_JNT1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lotta_R_pinky02_JNT
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Lotta_FBXModel_RIG(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_GEO
+      parentName: Lotta_FBXModel_RIG(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Sunglasses
+      parentName: lotta_GEO
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eyebrows
+      parentName: lotta_GEO
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eyeballs
+      parentName: lotta_GEO
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Retopo_hand
+      parentName: lotta_GEO
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Retopo_Shoes
+      parentName: lotta_GEO
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Retopo_Jacket
+      parentName: lotta_GEO
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Retopo_Head
+      parentName: lotta_GEO
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Retopo_hair
+      parentName: lotta_GEO
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Pants
+      parentName: lotta_GEO
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_RIG
+      parentName: Lotta_FBXModel_RIG(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_C_root_JNT
+      parentName: lotta_RIG
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_C_pelvis_JNT
+      parentName: lotta_C_root_JNT
+      position: {x: 4.3248682e-32, y: 0.8273455, z: -0.018602505}
+      rotation: {x: 0.012291934, y: 0.012291934, z: -0.70699996, w: 0.70699996}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_C_spine1_JNT
+      parentName: lotta_C_pelvis_JNT
+      position: {x: -0.09496447, y: -1.0436224e-17, z: -3.1790697e-18}
+      rotation: {x: 0, y: -0.046113204, z: -0, w: 0.99893624}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_C_spine2_JNT
+      parentName: lotta_C_spine1_JNT
+      position: {x: -0.1149036, y: -1.1450206e-16, z: -1.262525e-16}
+      rotation: {x: 0, y: 0.022164887, z: -0, w: 0.99975437}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_C_spine3_JNT
+      parentName: lotta_C_spine2_JNT
+      position: {x: -0.18817987, y: -2.1006594e-16, z: 4.4247275e-16}
+      rotation: {x: 0, y: -0.07184514, z: -0, w: 0.99741584}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_C_neck_JNT
+      parentName: lotta_C_spine3_JNT
+      position: {x: -0.11614169, y: -1.0040859e-16, z: 1.9205954e-17}
+      rotation: {x: 0, y: 0.12867954, z: -0, w: 0.9916862}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_C_head_END
+      parentName: lotta_C_neck_JNT
+      position: {x: -0.2289461, y: -4.8222613e-16, z: 4.8995403e-17}
+      rotation: {x: -0.03573022, y: -0.03573022, z: 0.7062035, w: 0.7062035}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_R_eyelid_upper_JNT
+      parentName: lotta_C_neck_JNT
+      position: {x: -0.13032271, y: 0.0442148, z: 0.079766095}
+      rotation: {x: -0.03573022, y: -0.03573022, z: 0.7062035, w: 0.7062035}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_R_eye_JNT
+      parentName: lotta_C_neck_JNT
+      position: {x: -0.12921838, y: 0.0442148, z: 0.07987813}
+      rotation: {x: -0.03573022, y: -0.03573022, z: 0.7062035, w: 0.7062035}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_R_eyelid_lower_JNT
+      parentName: lotta_C_neck_JNT
+      position: {x: -0.1282055, y: 0.0442148, z: 0.07998089}
+      rotation: {x: -0.03573022, y: -0.03573022, z: 0.7062035, w: 0.7062035}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_L_eyelid_upper_JNT
+      parentName: lotta_C_neck_JNT
+      position: {x: -0.13032691, y: -0.044214815, z: 0.07976571}
+      rotation: {x: -0.03573022, y: -0.03573022, z: 0.7062035, w: 0.7062035}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_L_eye_JNT
+      parentName: lotta_C_neck_JNT
+      position: {x: -0.12922166, y: -0.044214815, z: 0.07987784}
+      rotation: {x: -0.03573022, y: -0.03573022, z: 0.7062035, w: 0.7062035}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_L_eyelid_lower_JNT
+      parentName: lotta_C_neck_JNT
+      position: {x: -0.1282097, y: -0.044214815, z: 0.0799805}
+      rotation: {x: -0.03573022, y: -0.03573022, z: 0.7062035, w: 0.7062035}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_L_clavicle_JNT
+      parentName: lotta_C_spine2_JNT
+      position: {x: -0.08113946, y: -0.058413982, z: 0.02297314}
+      rotation: {x: 0.05436264, y: -0.047576644, z: 0.6875198, w: 0.7225633}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_L_shoulder_JNT
+      parentName: lotta_L_clavicle_JNT
+      position: {x: -0.09120461, y: 6.921244e-17, z: 3.3994857e-18}
+      rotation: {x: 0.010764328, y: 0.06944241, z: 0.053899836, w: 0.9960706}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_L_elbow_JNT
+      parentName: lotta_L_shoulder_JNT
+      position: {x: -0.21694879, y: 9.801908e-17, z: -1.8755768e-17}
+      rotation: {x: 0.00048375857, y: 0.010778155, z: 0.010433471, w: 0.9998874}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_L_wrist_JNT
+      parentName: lotta_L_elbow_JNT
+      position: {x: -0.2457615, y: -4.6817766e-16, z: 3.7166567e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_L_thumb01_JNT
+      parentName: lotta_L_wrist_JNT
+      position: {x: -0.03921781, y: -0.002089547, z: 0.053040255}
+      rotation: {x: -0.34646875, y: 0.43630156, z: 0.23843041, w: 0.7954567}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_L_thumb02_JNT
+      parentName: lotta_L_thumb01_JNT
+      position: {x: -0.034703184, y: 8.5585705e-17, z: 4.3064737e-17}
+      rotation: {x: 0.05630751, y: -0.035258673, z: -0.00725889, w: 0.9977643}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_L_thumb_END
+      parentName: lotta_L_thumb02_JNT
+      position: {x: -0.032765467, y: 2.882895e-17, z: 1.0127605e-16}
+      rotation: {x: 0.28307503, y: -0.343308, z: -0.56972766, w: 0.6909548}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_L_index01_JNT
+      parentName: lotta_L_wrist_JNT
+      position: {x: -0.12775154, y: -0.00081098813, z: 0.048746403}
+      rotation: {x: -0.0011181084, y: 0.07948673, z: 0.021838995, w: 0.99659604}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_L_index02_JNT
+      parentName: lotta_L_index01_JNT
+      position: {x: -0.027270595, y: -1.7104381e-17, z: 7.385366e-17}
+      rotation: {x: -0.019077871, y: -0.000943869, z: 0.036131464, w: 0.99916446}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_L_index_END
+      parentName: lotta_L_index02_JNT
+      position: {x: -0.037631128, y: 1.1502666e-16, z: 7.623133e-18}
+      rotation: {x: 0.026415579, y: -0.055449143, z: -0.42927057, w: 0.90108514}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_L_middle01_JNT
+      parentName: lotta_L_wrist_JNT
+      position: {x: -0.13060018, y: -0.00079117436, z: 0.017129147}
+      rotation: {x: 0.00016673333, y: 0.022612775, z: 0.028684527, w: 0.9993327}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_L_middle02_JNT
+      parentName: lotta_L_middle01_JNT
+      position: {x: -0.03290194, y: -1.1801918e-16, z: -9.815371e-18}
+      rotation: {x: -0.0022732513, y: -0.00012492198, z: 0.036667, w: 0.9993249}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_L_middle_END
+      parentName: lotta_L_middle02_JNT
+      position: {x: -0.043840904, y: -2.789154e-16, z: -5.5694885e-18}
+      rotation: {x: 0.0033775675, y: -0.007175354, z: -0.42587972, w: 0.9047451}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_L_ring01_JNT
+      parentName: lotta_L_wrist_JNT
+      position: {x: -0.13141423, y: 0.0000076298, z: -0.01261013}
+      rotation: {x: 0.003125725, y: -0.006943855, z: 0.039627634, w: 0.99918556}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_L_ring02_JNT
+      parentName: lotta_L_ring01_JNT
+      position: {x: -0.027937593, y: -9.6596795e-17, z: 4.1803395e-17}
+      rotation: {x: 0.008294409, y: 0.0009882706, z: 0.04023784, w: 0.9991553}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_L_ring_END
+      parentName: lotta_L_ring02_JNT
+      position: {x: -0.034297585, y: 2.1356414e-16, z: -8.746339e-18}
+      rotation: {x: -0.02350735, y: 0.055394076, z: -0.38993815, w: 0.9188728}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_L_pinky01_JNT1
+      parentName: lotta_L_wrist_JNT
+      position: {x: -0.12223491, y: -0.0016737103, z: -0.04096548}
+      rotation: {x: -0.0041850507, y: -0.009720831, z: -0.02260707, w: 0.9996884}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_L_pinky02_JNT
+      parentName: lotta_L_pinky01_JNT1
+      position: {x: -0.024411524, y: -8.445579e-17, z: 1.21425895e-17}
+      rotation: {x: 0.039416246, y: 0.00057377, z: 0.033805855, w: 0.9986507}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_L_pinky_END
+      parentName: lotta_L_pinky02_JNT
+      position: {x: -0.029209968, y: 2.5399334e-16, z: -1.666302e-17}
+      rotation: {x: -0.0397917, y: 0.08872813, z: -0.40726233, w: 0.9081197}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_R_clavicle_JNT
+      parentName: lotta_C_spine2_JNT
+      position: {x: -0.08113845, y: 0.058414, z: 0.02297313}
+      rotation: {x: -0.054361586, y: -0.047577094, z: -0.6875091, w: 0.7225735}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_R_shoulder_JNT
+      parentName: lotta_R_clavicle_JNT
+      position: {x: -0.09120489, y: -2.1895192e-16, z: 8.0332605e-18}
+      rotation: {x: -0.010765535, y: 0.069442496, z: -0.05391374, w: 0.99606985}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_R_elbow_JNT
+      parentName: lotta_R_shoulder_JNT
+      position: {x: -0.21695174, y: -3.32596e-16, z: -4.2997424e-17}
+      rotation: {x: -0.00048320077, y: 0.010781198, z: -0.010434229, w: 0.9998874}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_R_wrist_JNT
+      parentName: lotta_R_elbow_JNT
+      position: {x: -0.24575901, y: 4.3608163e-16, z: 3.7464625e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_R_thumb01_JNT
+      parentName: lotta_R_wrist_JNT
+      position: {x: -0.0392177, y: 0.0020897046, z: 0.053040225}
+      rotation: {x: 0.34645036, y: 0.4363052, z: -0.23842384, w: 0.79546463}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_R_thumb02_JNT
+      parentName: lotta_R_thumb01_JNT
+      position: {x: -0.034703385, y: 3.877136e-17, z: -1.3076766e-16}
+      rotation: {x: -0.05627821, y: -0.035263617, z: 0.007257563, w: 0.99776584}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_R_thumb_END
+      parentName: lotta_R_thumb02_JNT
+      position: {x: -0.03276533, y: 6.778509e-17, z: -3.2861285e-17}
+      rotation: {x: 0.34330878, y: -0.28307945, z: -0.6909498, w: 0.56973106}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_R_index01_JNT
+      parentName: lotta_R_wrist_JNT
+      position: {x: -0.12775162, y: 0.00081257045, z: 0.04874649}
+      rotation: {x: 0.0011181536, y: 0.0794855, z: -0.021840563, w: 0.99659616}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_R_index02_JNT
+      parentName: lotta_R_index01_JNT
+      position: {x: -0.027270516, y: -9.1051385e-18, z: 3.1957676e-17}
+      rotation: {x: 0.019078331, y: -0.0009440924, z: -0.036129598, w: 0.9991646}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_R_index_END
+      parentName: lotta_R_index02_JNT
+      position: {x: -0.037631262, y: 1.1364355e-16, z: -1.0348667e-17}
+      rotation: {x: -0.055449378, y: 0.026415681, z: 0.9010852, w: -0.42927045}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_R_middle01_JNT
+      parentName: lotta_R_wrist_JNT
+      position: {x: -0.13060024, y: 0.0007921805, z: 0.0171292}
+      rotation: {x: -0.0001667763, y: 0.022613006, z: -0.028691268, w: 0.99933255}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_R_middle02_JNT
+      parentName: lotta_R_middle01_JNT
+      position: {x: -0.0329016, y: -1.2051893e-17, z: 9.502718e-17}
+      rotation: {x: 0.0022732385, y: -0.00012542862, z: -0.03666364, w: 0.9993251}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_R_middle_END
+      parentName: lotta_R_middle02_JNT
+      position: {x: -0.043840926, y: -1.7980973e-16, z: 6.1265045e-18}
+      rotation: {x: -0.0071748905, y: 0.0033773815, z: 0.9047435, w: -0.42588302}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_R_ring01_JNT
+      parentName: lotta_R_wrist_JNT
+      position: {x: -0.13141409, y: -0.00000615655, z: -0.0126100825}
+      rotation: {x: -0.0031260934, y: -0.0069433646, z: -0.039633244, w: 0.9991853}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_R_ring02_JNT
+      parentName: lotta_R_ring01_JNT
+      position: {x: -0.027937599, y: -2.0588177e-16, z: 3.4317335e-17}
+      rotation: {x: -0.008295125, y: 0.0009882186, z: -0.040234886, w: 0.9991554}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_R_ring_END
+      parentName: lotta_R_ring02_JNT
+      position: {x: -0.03429784, y: 6.707141e-17, z: 1.1535318e-18}
+      rotation: {x: 0.055393904, y: -0.023507623, z: 0.9188707, w: -0.389943}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_R_pinky01_JNT1
+      parentName: lotta_R_wrist_JNT
+      position: {x: -0.12223534, y: 0.001675226, z: -0.040965427}
+      rotation: {x: 0.0041859685, y: -0.00971896, z: 0.022608025, w: 0.9996884}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_R_pinky02_JNT
+      parentName: lotta_R_pinky01_JNT1
+      position: {x: -0.024411228, y: 8.9072456e-17, z: 6.6959814e-17}
+      rotation: {x: -0.039420616, y: 0.0005739124, z: -0.033808883, w: 0.99865043}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_R_pinky_END
+      parentName: lotta_R_pinky02_JNT
+      position: {x: -0.02920978, y: 5.4589563e-17, z: 1.0189595e-17}
+      rotation: {x: 0.088729054, y: -0.03979269, z: 0.90811735, w: -0.4072672}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_L_hip_JNT
+      parentName: lotta_C_pelvis_JNT
+      position: {x: 0.035195034, y: -0.071747296, z: 0.005137817}
+      rotation: {x: -0.037769105, y: 0.0000576064, z: 0.999104, w: 0.01909774}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_L_knee_JNT
+      parentName: lotta_L_hip_JNT
+      position: {x: -0.2754218, y: -1.3654009e-17, z: 1.5001901e-17}
+      rotation: {x: 0.00003287113, y: -0.04358298, z: 0.0117462585, w: 0.99898076}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_L_ankle_JNT
+      parentName: lotta_L_knee_JNT
+      position: {x: -0.2981149, y: -7.4523924e-17, z: -2.6343153e-16}
+      rotation: {x: -0.0038221553, y: 0.35096377, z: 0.01184103, w: 0.9363064}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_L_toe_JNT
+      parentName: lotta_L_ankle_JNT
+      position: {x: -0.21964101, y: 2.9796915e-17, z: -4.877801e-17}
+      rotation: {x: 0, y: 0.4517466, z: -0, w: 0.8921463}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_L_toe_END
+      parentName: lotta_L_toe_JNT
+      position: {x: -0.069266506, y: 3.7263937e-17, z: 6.844057e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_R_hip_JNT
+      parentName: lotta_C_pelvis_JNT
+      position: {x: 0.035195153, y: 0.071747296, z: 0.0051378505}
+      rotation: {x: -0.037769042, y: -0.000057604888, z: 0.999104, w: -0.019097652}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_R_knee_JNT
+      parentName: lotta_R_hip_JNT
+      position: {x: -0.27542195, y: -1.0762652e-17, z: 7.9078996e-20}
+      rotation: {x: -0.000032871318, y: -0.043582905, z: -0.011746092, w: 0.99898076}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_R_ankle_JNT
+      parentName: lotta_R_knee_JNT
+      position: {x: -0.29811502, y: 3.3465236e-17, z: -1.6521004e-16}
+      rotation: {x: 0.0038221495, y: 0.35096395, z: -0.011841004, w: 0.93630636}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_R_toe_JNT
+      parentName: lotta_R_ankle_JNT
+      position: {x: -0.21964057, y: -1.4364267e-18, z: -8.286198e-17}
+      rotation: {x: 0, y: 0.45174655, z: -0, w: 0.89214635}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lotta_R_toe_END
+      parentName: lotta_R_toe_JNT
+      position: {x: -0.069267, y: -1.9984014e-17, z: -1.7763568e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: lotta_C_root_JNT
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 2fbae5bb19f97f248ae182b3cc32afb1, type: 3}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 2
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

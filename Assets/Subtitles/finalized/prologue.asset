@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a2eb869874433d4a8ff9ed7f8b5e870, type: 3}
+  m_Name: prologue
+  m_EditorClassIdentifier: 
+  lines:
+  - speaker: 0
+    text: $prolog_01
+    displayTime: 0.6
+  - speaker: 0
+    text: $prolog_02
+    displayTime: 1
+  - speaker: 0
+    text: $prolog_04
+    displayTime: 4.2
+  - speaker: 5
+    text: $prolog_05
+    displayTime: 3.7
+  - speaker: 5
+    text: $prolog_06
+    displayTime: 5.5
+  - speaker: 5
+    text: $prolog_07
+    displayTime: 3.2
+  - speaker: 5
+    text: $prolog_08
+    displayTime: 2.4
+  - speaker: 6
+    text: $prolog_09
+    displayTime: 2
+  - speaker: 5
+    text: $prolog_10
+    displayTime: 2.3
+  - speaker: 0
+    text: $prolog_11
+    displayTime: 4
+  - speaker: 5
+    text: $prolog_12
+    displayTime: 4.5
+  - speaker: 5
+    text: $prolog_13
+    displayTime: 3.7
+  - speaker: 0
+    text: $prolog_14
+    displayTime: 5.5
+  - speaker: 4
+    text: $prolog_15
+    displayTime: 4.1
+  - speaker: 0
+    text: $prolog_03
+    displayTime: 7
+  - speaker: 4
+    text: $prolog_16
+    displayTime: 3.1
+  - speaker: 4
+    text: $prolog_17
+    displayTime: 2.6
+  - speaker: 4
+    text: $prolog_18
+    displayTime: 6.3
+  - speaker: 4
+    text: $prolog_19
+    displayTime: 6.45
+  - speaker: 4
+    text: $prolog_20
+    displayTime: 5

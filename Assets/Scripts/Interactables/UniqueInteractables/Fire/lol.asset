@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa017df7a866a644192e18905f4fbcc5, type: 3}
+  m_Name: lol
+  m_EditorClassIdentifier: 
+  fireRecipes:
+  - consumedFood: 9
+    exchangedFood: {fileID: 3068686084915841496, guid: a04277e9ee5dd314fadbdbea2d31e121, type: 3}
+  - consumedFood: 11
+    exchangedFood: {fileID: 3068686084915841496, guid: 0614704eadf187040ba6a1211507cf7d, type: 3}
+  - consumedFood: 13
+    exchangedFood: {fileID: 3068686084915841496, guid: c2622e146923f494d9065fc937ea1795, type: 3}
+  - consumedFood: 8
+    exchangedFood: {fileID: 3068686084915841496, guid: 5681a8cc87ec8704ca352aca3f7ee491, type: 3}
